@@ -24,5 +24,5 @@ Debug mode displays token passing history and message delivery events.
 1. Clone the repository:
 git clone https://github.com/your-username/TokenRingSimulation.git
 cd TokenRingSimulation
-2. Run the simulation:
+3. Run the simulation:
 python main.py
